@@ -1,0 +1,10 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+classadd/__init__.py
+classadd/classadd.py
+classadd.egg-info/PKG-INFO
+classadd.egg-info/SOURCES.txt
+classadd.egg-info/dependency_links.txt
+classadd.egg-info/top_level.txt
